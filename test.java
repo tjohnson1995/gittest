@@ -16,7 +16,7 @@ public class test{
 			System.out.print(a1[i]);
 			System.out.print(a2[i]);
 			
-			System.out.println("");
+			System.out.println("Github is awesome");
 		}
 		
 	}
