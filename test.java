@@ -17,7 +17,9 @@ public class test{
 			System.out.print(a2[i]);
 			
 			System.out.println("Github is awesome");
-                        System.out.println("Remy is a slacker!");
+
+            System.out.println("Remy is a slacker!");
+			System.out.println("Github is Fun");
 		}
 		
 	}
